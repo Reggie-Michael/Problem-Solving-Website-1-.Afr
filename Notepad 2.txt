@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Home Page</title>
+    <link rel="icon" href="./images/Tech Impart Logo icon.png" type="image/png">
+    <script src="https://kit.fontawesome.com/4b43be5a9c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="header">
+        <header>
+            <div class="logo">
+                <a href="./index.html">
+                    <img src="./images/Tech Impart Logo icon.png" alt="Tech Impart Logo">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="./index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="./animal home page.html">Animals</a>
+                        <ul>
+                            <li>
+                                <a href="#">Terrestrial Animals</a>
+                            </li>
+                            <li>
+                                <a href="#">Aquatic Animals</a>
+                            </li>
+                            <li>
+                                <a href="#">Amphibians</a>
+                            </li>
+                            <li>
+                                <a href="#">Arboreal Animals</a>
+                            </li>
+                            <li>
+                                <a href="#">Aerial Animals</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Colors</a>
+                        <ul>
+                            <li>
+                                <a href="#">colors</a>
+                            </li>
+                            <li>
+                                <a href="#">colors</a>
+                            </li>
+                            <li>
+                                <a href="#">colors</a>
+                            </li>
+                            <li>
+                                <a href="#">colors</a>
+                            </li>
+                            <li>
+                                <a href="#">colors</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+   
+    <div class="path-nav">
+        <div class="home">
+            <a href="./index.html">* Home</a>
+            <ul>
+                <li>
+                    <a href="./animal home page.html">Animals</a>
+                </li>
+                <li>
+                    <a href="#">Colors</a>
+                </li>
+            </ul>
+        </div>
+        <span> > </span>
+        <!-- <i class="fa-solid fa-greater-than"></i> -->
+        <div class="Animal">
+            <a href="./animal home page.html">Animals</a>
+            <ul>
+                <li>
+                    <a href="#">Terrestrial Animals</a>
+                </li>
+                <li>
+                    <a href="#">Aquatic Animals</a>
+                </li>
+                <li>
+                    <a href="#">Amphibians</a>
+                </li>
+                <li>
+                    <a href="#">Arboreal Animals</a>
+                </li>
+                <li>
+                    <a href="#">Aerial Animals</a>
+                </li>
+            </ul>
+        </div>
+       
+    </div>
+    <div class="hero">
+        <h1>
+           Animals
+        </h1>
+    </div>
+    <div class="content">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+            laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+            laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+            laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+        </p>
+        <div class="animal-class">
+            <p>
+                Major Classifications are:
+            </p>
+            <details class="class-one">
+                <summary>
+                    Terrestrial Animals
+                </summary>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <a href="#"> More on Terrestrial Animal Page </a>
+                
+            </details>
+            <div class="terrestrial-animals">
+                <p>
+                    Terrestrial habitats encompass a wide range of environments, each with its own unique characteristics. 
+                    Some common types of terrestrial habitats include:
+                </p>
+                <div class="types-o-terrestrial">
+                    <div class="type-one">
+                       <p>
+                            <b>
+                                Forest Animals
+                            </b>
+                       </p>
+                       <div class="type-o-type-one">
+                        <dl>
+                            <dt>
+                                <b>
+                                    Tropical rainforest animal:
+                                </b>
+                            </dt>
+                            <dd>
+                                <p>
+                                    The tropical rainforest is an ideal habitat to have a wide range of animal species. 
+                                    Tropical forests are generally situated around Earth’s equator in South Africa, America & Southern Asia. 
+                                    The main characteristic of this habitat is the humidity and heavy rainfall which make it one of the favourite places for animal survival.
+                                </p>
+                                <p>
+                                    The tropical rainforest provides shelter to thousands of animals such as the gorilla, jaguar, rhino, various birds, Monkey, fox, various snakes, etc.
+                                </p>
+                            </dd>
+                            <dt>
+                                <b>
+                                    Temperate forest animal:
+                                </b>
+                            </dt>
+                            <dd>
+                                <p>
+                                    One of the best characteristic features of temperate forest habitat is that 
+                                    here you will find well-defined four seasons 
+                                    (i.e. summer, winter, rainy, and spring seasons) annually.
+                                </p>
+                                <p>
+                                    The most common types of animals based on habitat at temperate forests are elk, marmots, bears, deer, lynxes, owls, etc.
+                                </p>
+                            </dd>
+                            <dt>
+                                <b>
+                                    Boreal forest animal:
+                                </b>
+                            </dt>
+                            <dd>
+                                <p>
+                                    The boreal forest, or taiga, is a vast and cold biome that covers much
+                                    of the northern hemisphere.
+                                    Many animals that live in the boreal forest have adaptations to survive the harsh winters, 
+                                    such as thick fur, hibernation, or migration.
+                                    The boreal forest is a vital habitat for many rare and unique species, as well as a crucial carbon sink 
+                                    and a source of timber, pulp, and minerals.
+                                </p>
+                                <p>
+                                    Some of the largest and most iconic animals of the boreal forest are the moose, caribou, elk, and bears, which feed on plants, lichens, and berries.
+                                </p>
+                            </dd>
+                        </dl>
+                        <p>
+                            <b>
+                                Some Examples of Forest (Terrestrial) Animals Are
+                            </b>
+                        </p>
+                        <div class="example-type-one">
+                            <!-- SlideShow -->
+                        </div>
+                       </div>
+                    </div>
+                    <div class="type-two">
+                        <b>
+                            Grassland animal:
+                        </b>
+                        <p>
+                            Grassland is a home for thousands of animals and birds. 
+                            There are two different types of grassland habitat which are found on the Earth.
+                        </p>
+                        <div class="types-o-tpe-two">
+                            <dl>
+                                <dt>
+                                    <b>
+                                        Tropical grassland
+                                    </b>
+                                </dt>
+                                <dd>
+                                    <p>
+                                        Another name for Tropical Grassland is African Savana. 
+                                        This types of animals based on habitat is enriched with widespread grass fields & long trees. 
+                                        This region receives an average rainfall up to 30 to 50 inches annually. 
+                                        After this season, tropical grassland experience a lengthy dry season.
+                                    </p>
+                                    <p>
+                                        Tropical grassland provides shelter to numerous animals like giraffes, zebras, lions, rhinos, elephants, etc.
+                                    </p>
+                                </dd>
+                                <dt>
+                                    <b>
+                                        Temperate grassland:
+                                    </b>
+                                </dt>
+                                <dd>
+                                    <p>
+                                        This types of animals based on habitat are more or less similar to tropical grassland (except it experiences warm season followed by cold winter season).
+                                        The average rainfall recorded annually in temperate grassland is approximately 30 to 35 inches. 
+                                        Great Plains of the Midwest and Palouse Prairie (America) are excellent examples of temperate grassland.
+                                    </p>
+                                    <p>
+                                        Temperate grassland is a natural habitat for animals like gazelle, rabbits, deer, mice and various species of snakes, etc.
+                                    </p>
+                                </dd>
+                            </dl>
+                        </div>
+                        <p>
+                            <b>
+                                Some Examples Grassland Terrestrial Animals Are:
+                            </b>
+                        </p>
+                        <div class="example-type-two">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                    <div class="type-three">
+                        <b>
+                            Tundra animal:
+                        </b>
+                        <p>
+                            Tundra region is found in the Arctic where the climate is too cold and windy. 
+                            This is why you can see very hardy flora and fauna species living in the cold climate of the tundra region.
+                        </p>
+                        <p>
+                            <b>
+                                Some Examples of Tundra (Terrestrial) Animals Are:
+                            </b>
+                        </p>
+                        <div class="example-type-three">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                    <div class="type-four">
+                        <b>
+                            Desert animals:
+                        </b>
+                        <p>
+                            Deserts are dry regions that receive annual rainfall less than 10 inches. 
+                            This types of animals based on habitat have a special adaptation to survive in the adverse climatic conditions of the desert region. 
+                            Some animals live in burrows or caves, whereas some other animals have adapted the lifestyle of nocturnal animals
+                        </p>
+                        <p>
+                            <b>
+                                Some Examples of Desert (Terrestrial) Animals Are: 
+                            </b>
+                        </p>
+                        <div class="example-type-four">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                    <div class="type-five">
+                        <b>
+                            Mountain animals:
+                        </b>
+                        <p>
+                            Mountains are the high landforms from the surface level. 
+                            Mountain habitat has a relatively colder climate as compared to plains. 
+                            The animals that live in mountain regions have in-build features to survive in such a cold habitat.
+                        </p>
+                        <p>
+                            <b>
+                                Some Examples of Mountain (Terrestrial) Animals Are: 
+                            </b>
+                        </p>
+                        <div class="example-type-five">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                    <div class="type-six">
+                        <b>
+                            Savanna 
+                        </b>
+                        <p>
+                            Savannas are a specific type of grassland ecosystem. A savanna is characterized by a continuous grassy ground layer with scattered trees and shrubs. 
+                            They are found in various climate zones, including tropical, subtropical, and even some temperate regions. While tropical savannas are indeed a type of savanna, the term "savanna" can also refer to ecosystems in other climatic regions that have a similar grass-tree mix. 
+                            For example, the African savanna includes both tropical grasslands (with distinct wet and dry seasons) and subtropical savannas (with milder temperature variations).
+                        </p>
+                        <p>
+                            Savannas often experience a pronounced dry season and a rainy season. The vegetation structure in a savanna is well-adapted to both fire and grazing, and it supports a mix of herbivores and carnivores.
+                        </p>
+                        <p>
+                            <strong>Note:</strong>
+                            <strong>
+                                In essence, a tropical grassland is a broader term that encompasses various types of grasslands found in tropical regions, including savannas. 
+                                A savanna is a specific subtype of tropical grassland that features the characteristic combination of grasses and scattered trees.
+                            </strong>
+                            <p>
+                                <strong>
+                                    It's important to note that terminology can vary, and sometimes the terms "tropical grassland" and "savanna" might be used interchangeably depending on the context. If you're focusing on a specific project, 
+                                    it's a good idea to clarify the terminology based on the geographical and ecological context you're addressing.
+                                </strong>
+                            </p>
+                        </p>
+                        <div class="example-type-six">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <details class="class-two">
+                <summary>
+                    Aquatic Animals
+                </summary>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <a href="#">Aquatic Animal Page </a>
+            </details>
+            <div class="aquatic-animals">
+                <p>
+                    <b>
+                        Aquatic Animals
+                    </b>
+                </p>
+                <p>
+                    Aquatic animals are the ones who live in water. 
+                    The aquatic ecosystem provides a natural habitat to millions of flora and fauna. 
+                    In aquatic habitat, you will find animals of different sizes, colours, behaviours, features, etc. 
+                    Aquatic animals habitat is divided into two types.
+                </p>
+                <div class="types-o-aquatic">
+                    <div class="type-one">
+                        <b>
+                            Freshwater (Aquatic) animal habitat
+                        </b>
+                        <p>
+                            Freshwater habitats refer to environments characterized by the presence of still or slow-moving freshwater, such as rivers, lakes, ponds, and wetlands. 
+                            These habitats are essential for various aquatic organisms, including fish, amphibians, invertebrates, and plants. Freshwater habitats are distinct from marine habitats, 
+                            which contain saltwater, and they play a crucial role in supporting biodiversity and providing ecosystem services. 
+                            Here's a more detailed explanation of freshwater habitats:
+                        </p>
+                        <b>
+                            Types of Freshwater Habitats:
+                        </b>
+                        <dl>
+                            <dt>
+                                Rivers and Streams:
+                            </dt>
+                            <dd>
+                                Rivers and streams are flowing water habitats, collectively referred to as lotic ecosystems. They vary in size from small creeks to mighty rivers. 
+                                These habitats are characterized by continuous water movement and often feature rocky bottoms, riffles (shallow, fast-flowing sections), and pools.
+                            </dd>
+                            <dt>
+                                Lakes and Ponds:
+                            </dt>
+                            <dd>
+                                Lakes and ponds are still water habitats, known as lentic ecosystems. 
+                                Lakes are typically larger and deeper than ponds. They have various zones, including the littoral zone (shallow area near the shore), limnetic zone (open water), and profundal zone (deep water). 
+                                Lakes and ponds can support diverse aquatic life due to the range of depths and habitats they offer.
+                            </dd>
+                            <dt>
+                                Wetlands:
+                            </dt>
+                            <dd>
+                                Wetlands are transitional areas between terrestrial and aquatic environments. 
+                                They include marshes, swamps, bogs, and fens. Wetlands are characterized by waterlogged soils and support a wide variety of plants, birds, insects, amphibians, and other organisms. 
+                                They also provide important ecosystem services such as water filtration and flood control.
+                            </dd>
+                        </dl>
+                        <p>
+                            <b>
+                                Some Examples of Freshwater (Aquatic) Animals are:
+                            </b>
+                        </p>
+                        <div class="example-type-one">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                    <div class="type-two">
+                        <b>
+                            Marine (Aquatic) animal habitat
+                        </b>
+                        <p>
+                            Marine habitats encompass the diverse ecosystems found in the world's oceans and seas. 
+                            These habitats cover about 71% of Earth's surface and are home to an incredible variety of marine life. 
+                            Marine habitats are shaped by factors such as water depth, temperature, salinity, and geological features. 
+                            They play a critical role in the planet's ecology, climate regulation, and resource availability.
+                        </p>
+                        <b>
+                            Types of Marine Habitats:
+                        </b>
+                        <dl>
+                            <dt>
+                                Intertidal Zone:
+                            </dt>
+                            <dd>
+                                This is the area along the coastline that is exposed to air during low tide and covered by water during high tide. 
+                                Organisms here must adapt to changing conditions, including waves, temperature fluctuations, and exposure to air.
+                            </dd>
+                            <dt>
+                                Neritic Zone:
+                            </dt>
+                            <dd>
+                                This relatively shallow area extends from the shoreline to the edge of the continental shelf. 
+                                It's rich in sunlight and nutrients, making it a productive zone for marine life, including coral reefs and kelp forests.
+                            </dd>
+                            <dt>
+                                Oceanic Zone:
+                            </dt>
+                            <dd>
+                                Beyond the continental shelf lies the vast oceanic zone, which includes both the epipelagic zone (upper layer with sunlight penetration) and the mesopelagic zone (twilight zone). 
+                                This zone is home to diverse species, including fish, marine mammals, and plankton.
+                            </dd>
+                            <dt>
+                                Benthic Zone:
+                            </dt>
+                            <dd>
+                                The ocean floor, also known as the benthic zone, includes different habitats like sandy bottoms, rocky reefs, and deep-sea trenches. 
+                                Unique species have adapted to the specific conditions of each benthic habitat.
+                            </dd>
+                            <dt>
+                                Coral Reefs:
+                            </dt>
+                            <dd>
+                                These are underwater ecosystems formed by colonies of coral polyps. 
+                                Coral reefs are incredibly diverse and support a wide range of marine life, from small fish to large predators.
+                            </dd>
+                            <dt>
+                                Kelp Forests:
+                            </dt>
+                            <dd>
+                                Kelp forests are underwater ecosystems dominated by large brown algae known as kelp. 
+                                They provide shelter and food for various species, including fish, invertebrates, and sea otters.
+                            </dd>
+                            <dt>
+                                Mangrove Forests:
+                            </dt>
+                            <dd>
+                                Found in coastal areas, mangrove forests consist of salt-tolerant trees that create a unique habitat for marine life, such as fish, crabs, and birds.
+                            </dd>
+                            <dt>
+                                Abyssal Zone: 
+                            </dt>
+                            <dd>
+                                The deep ocean floor with extreme pressure and darkness, inhabited by creatures adapted to the harsh conditions.
+                            </dd>
+                        </dl>
+                        <p>
+                            <b>
+                                Some Examples of Marine (Aquatic) Animals are:
+                            </b>
+                        </p>
+                        <div class="example-type-two">
+                            <!-- SlideShow -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <details class="class-three">
+                <summary>
+                    Amphibians
+                </summary>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <a href="#">Amphibians Page </a>
+            </details>
+            <div class="amphibians">
+                <p>
+                    <b>
+                        Amphibians
+                    </b>
+                </p>
+                <p>
+                    Amphibians are a group of vertebrate animals that are well known for their unique life cycle, which involves both aquatic and terrestrial stages. 
+                    Their habitats often reflect this dual life strategy.
+                    Amphibians are found in a variety of environments around the world, including forests, wetlands, and even deserts
+                </p>
+                <div class="types-o-amphibians">
+                    <p>
+                        Types Of Amphibian Habitat for Amphibian Animals
+                    </p>
+                    <dt>
+                        Forests:
+                    </dt>
+                    <dd>
+                        Many amphibian species inhabit forests, including both temperate and tropical rainforests. 
+                        They can be found on the forest floor, in leaf litter, near streams, and on low vegetation.
+                    </dd>
+                    <dt>
+                        Wetlands:
+                    </dt>
+                    <dd>
+                        Wetlands such as swamps, marshes, and ponds are important amphibian habitats. 
+                        These areas provide breeding sites for many species due to the presence of water.
+                    </dd>
+                    <dt>
+                        Streams and Rivers:
+                    </dt>
+                    <dd>
+                        Amphibians like salamanders and some frogs inhabit flowing water habitats. 
+                        They lay eggs in streams and rivers, and their larvae develop in water.
+                    </dd>
+                    <dt>
+                        Deserts:
+                    </dt>
+                    <dd>
+                        While not as common as in other habitats, some amphibian species are adapted to desert environments. 
+                        These species often exhibit behaviors that help them conserve water.
+                    </dd>
+                    <dt>
+                        Grasslands:
+                    </dt>
+                    <dd>
+                        Amphibians can be found in grasslands and meadows, especially those near water sources. 
+                        They might use these habitats for foraging and shelter.
+                    </dd>
+                    <dt>
+                        Mountains:
+                    </dt>
+                    <dd>
+                        Certain amphibians are adapted to high-altitude environments in mountainous regions. 
+                        They have specific adaptations to cope with cold temperatures and low oxygen levels.
+                    </dd>
+                </div>
+                <div class="example-type-amphibians">
+                    <!-- SlideShow -->
+                </div>
+            </div>
+            <details class="class-four">
+                <summary>
+                    Arboreal Animals
+                </summary>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <a href="#">Arboreal Animals Page </a>
+            </details>
+            <div class="arboreal-animals">
+                <p>
+                    <b>
+                        Arboreal Animals
+                    </b>
+                </p>
+                <p>
+                    Arboreal animals are those that primarily live in trees and are adapted to a life in the canopy or upper layers of forests. 
+                    These animals have unique adaptations that allow them to navigate, find food, and shelter within the complex three-dimensional environment of trees. 
+                    Arboreal habitats are found in various types of forests around the world, including tropical rainforests, temperate forests, and even some urban environments with trees.
+                
+                </p>
+                <p>
+                    We have different animals types that are arboreal animals
+
+                </p>
+                <ul>
+                    <li>
+                        Primates
+                    </li>
+                    <li>
+                        Mammals
+                    </li>
+                    <li>
+                        Reptiles
+                    </li>
+                    <li>
+                        Amphibians
+                    </li>
+                    <li>
+                        Birds
+                    </li>
+                    <li>
+                        Insects
+                    </li>
+                </ul>
+                <div class="example-type-arboreal">
+                    <!-- SlideShow -->
+                </div>
+            </div>
+            <details class="class-five">
+                <summary>
+                    Aerial Animals
+                </summary>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro eum minima 
+                    laudantium quas voluptatem odio molestias cum nisi voluptatum molestiae.
+                </p>
+                <a href="#">Aerial Animals Page </a>
+                
+            </details>
+            <div class="aerial-animal">
+                <p>
+                    <b>Aerial animals</b> are animals that spend ost of their time in the air.
+                    This brought about <b>Aerial Habitat</b>
+                </p>
+                <p>
+                    Aerial habitats refer to environments that are located in the air, above the ground or water surface. 
+                    These habitats are inhabited by animals that spend a significant portion of their lives flying or floating in the air. 
+                    Aerial habitats are distinct from terrestrial (land-based) and aquatic (water-based) habitats.
+                </p>
+                <p>
+                    <strong>
+                        Note:
+                    </strong>
+                    <p>
+                        <strong>
+                            Though Most Aerial Animals are dwellers of other habitats, they spend most of their time in the air and why they are sometimes classified as <ins>Aerial Animals</ins>
+                        </strong>
+                    </p>
+                </p>
+                <div class="example-type-aerial">
+                    <!-- SlideShow -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
